@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nobrightnessmod",
+  "name": "NoBrightnessMod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["qequy"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
